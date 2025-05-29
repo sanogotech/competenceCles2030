@@ -1,5 +1,3 @@
-# Competence cles 2030
-
 # 🌍 Les 11 Compétences Clés pour Réussir en 2030
 
 # **Comprendre, développer et activer les compétences humaines à l’ère de l’IA et des bouleversements rapides**
