@@ -190,13 +190,6 @@ D'ici 2030, le monde du travail sera profondément transformé par l'automatisat
 
 ---
 
-Parfait. Voici la suite du document avec le **même niveau de détail** pour les compétences **6 à 11**, accompagnée pour chaque compétence de **3 tableaux** :
-
-* Exemples concrets
-* Bonnes pratiques
-* Indicateurs/métriques
-
----
 
 ## 🔁 6. Leadership et influence sociale
 
@@ -378,4 +371,3 @@ Les compétences clés de 2030 ne sont ni de simples outils ni de simples savoir
 
 ---
 
-Souhaitez-vous une **version PDF prête à l’impression**, une **présentation PowerPoint**, ou un **poster visuel** avec les tableaux résumés ?
